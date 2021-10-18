@@ -1,4 +1,4 @@
-import java.util.;
+import java.util.*;
 public class Sum()
 {
 public static void amin(String args)
