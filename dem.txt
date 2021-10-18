@@ -1,0 +1,10 @@
+import java.util.;
+public class Sum()
+{
+public static void amin(String args)
+{
+Scanner sc=new scanner(System.in);
+int n=sc.nextInt();
+Sysytem.out.println(n);
+}
+}
